@@ -12,4 +12,4 @@ asuna = Hero("Asuna", 100 , 1000)
 kirito.action()
 asuna.action()
 
-print(asuna.hp_1)
+print(asuna.hp)

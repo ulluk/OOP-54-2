@@ -14,6 +14,7 @@ class Person:
 Bob = Person(name='bob', age=20, city='London')
 Lary = Person(name='lary', age=13, city='Paris')
 Molly = Person(name='molly', age=18, city='Bishkek')
+
 Molly.introduce()
 Bob.introduce()
 Lary.introduce()
